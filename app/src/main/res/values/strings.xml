@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Examen1</string>
+    <string name="cout">Coût du voyage</string>
+    <string name="type_essence">Type d’essence</string>
+    <string name="diesel">Diesel</string>
+    <string name="gazoline">Gazoline</string>
+    <string name="distance">Distance</string>
+    <string name="performance">Performance</string>
+    <string name="prix_essence">Prix de l’essence</string>
+    <string name="cout_ess">Coût</string>
+    <string name="hint_cout">$0.00</string>
+    <string name="calculer">Calculer</string>
+    <string name="l_100km">L/100km</string>
+    <string name="_0km">0km</string>
+    <string name="_0_00">$0.00</string>
+</resources>
